@@ -3,6 +3,8 @@
   "version": "4.0.0-forked",
   "description": "Javascript library for customizable UI on top of Firebase SDK",
   "files": [
+    "dist/firebaseui__de.js",
+    "dist/firebaseui__en.js",
     "dist/firebaseui.js",
     "dist/firebaseui.css",
     "dist/npm.js",

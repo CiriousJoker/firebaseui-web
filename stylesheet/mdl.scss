@@ -14,6 +14,11 @@
  * limitations under the License.
  */
 
+// NOTE: Theme changes:
+$color-primary: #4d707a;
+$color-primary-dark: #ff00ff;
+$color-accent: #00ff00;
+
 // Bundles together required MDL CSS components.
 @import '../node_modules/material-design-lite/src/variables';
 @import '../node_modules/material-design-lite/src/mixins';

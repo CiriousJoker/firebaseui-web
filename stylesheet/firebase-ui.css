@@ -186,7 +186,7 @@ input.firebaseui-input-invalid{
 }
 
 .firebaseui-textfield.mdl-textfield .firebaseui-label::after {
-  background-color: #3f51b5;
+  background-color: #4d707a;
 }
 
 .firebaseui-textfield-invalid.mdl-textfield .firebaseui-input {

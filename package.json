@@ -8,6 +8,8 @@
     "dist/firebaseui.js",
     "dist/firebaseui.css",
     "dist/npm.js",
+    "dist/npm__de.js",
+    "dist/npm__en.js",
     "dist/index.d.ts",
     "dist/externs",
     "LICENSE",

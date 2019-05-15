@@ -14,7 +14,7 @@
     "README.md",
     "package.json"
   ],
-  "main": "./dist/npm.js",
+  "main": "./dist/npm__de.js",
   "types": "./dist/index.d.ts",
   "style": "dist/firebaseui.css",
   "scripts": {
